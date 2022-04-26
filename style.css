@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-image: url(./Images/backgroundHomeHeader.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #eee;
+  height: 30vh;
+  display: flex;
+}
+
+.headerText {
+  height: 25vh;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.headerImageBox {
+  height: 25vh;
+  display: inline-block;
+  vertical-align: top;
+  margin: auto;
+}
+
+.headerImage {
+  max-height: 25vh;
+}
